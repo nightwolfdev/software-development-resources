@@ -31,7 +31,3 @@
 | [Tabler Icons](https://tabler-icons.io/) | Free and open source icons designed to make your website or app attractive, visually consistent and simply beautiful. |
 | [Teenyicons](https://teenyicons.com/) | Teenyicons is an elegant icon set by Anja van Staden with more than a thousand icons. |
 | [Unicode Arrows](https://unicodearrows.com/) | Unicode is how we encode text on the web. It spans everything from letters, numbers, emoji, wingdings, and yes, arrows! This is a collection of unicode arrows! |
-
-
-| []() |  |
-| []() |  |
