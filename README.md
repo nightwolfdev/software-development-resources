@@ -7,5 +7,6 @@ A curated list of software development resources by [NightWolf Software Developm
 - [Ecommerce](./ecommerce/)
 - [Games](./games/)
 - [Icons](./icons/)
+- [Static Site Generators](./ssg/)
 - [Training](./training/)
 - [Visualizations](./visualizations/)
