@@ -3,6 +3,7 @@
 | Name | Description |
 | --- | --- |
 | [Chart.js](https://www.chartjs.org/) | Simple yet flexible JavaScript charting library for the modern web. |
+| [Charts.css](https://chartscss.org/) | Charts.css is a modern CSS framework. It uses CSS utility classes to style HTML elements as charts. |
 | [D2](https://d2lang.com/) | D2 is a diagram scripting language that turns text to diagrams. It stands for Declarative Diagramming. Declarative, as in, you describe what you want diagrammed, it generates the image. |
 | [D3](https://d3js.org/) | D3 (or D3.js) is a free, open-source JavaScript library for visualizing data. Its low-level approach built on web standards offers unparalleled flexibility in authoring dynamic, data-driven graphics. |
 | [DgrmJS](https://app.dgrm.net/) | DgrmJS is a JavaScript library for creating SVG flow diagrams. |
