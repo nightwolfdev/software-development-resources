@@ -2,6 +2,7 @@
 
 | Name | Description |
 | --- | --- |
+| [C3.js](https://c3js.org/) | D3 based reusable chart library. |
 | [Chart.js](https://www.chartjs.org/) | Simple yet flexible JavaScript charting library for the modern web. |
 | [Charts.css](https://chartscss.org/) | Charts.css is a modern CSS framework. It uses CSS utility classes to style HTML elements as charts. |
 | [D2](https://d2lang.com/) | D2 is a diagram scripting language that turns text to diagrams. It stands for Declarative Diagramming. Declarative, as in, you describe what you want diagrammed, it generates the image. |

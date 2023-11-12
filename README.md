@@ -3,6 +3,7 @@
 A curated list of software development resources by [NightWolf Software Development](https://nightwolf.dev).
 
 - [Animations](./animations/)
+- [Color](./color/)
 - [CSS](./css/)
 - [Databases](./databases/)
 - [Date & Time](./datetime/)

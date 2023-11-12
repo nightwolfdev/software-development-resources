@@ -10,3 +10,4 @@
 | [Pikaday](https://github.com/Pikaday/Pikaday) | A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS. |
 | [spacetime](https://spacetime.how/) | spacetime is a very small and handy date calculator. |
 | [time.lol](https://time.lol/) | Convert time and date to any format/time zone: ISO 8601, Timestamp, RFC, Julian Day, and more. |
+| [Timeline JS](https://timeline.knightlab.com/) | Timeline JS is a free, easy-to-use tool for telling stories in a timeline format. |
