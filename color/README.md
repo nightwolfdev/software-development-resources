@@ -16,5 +16,5 @@
 | [hue.tools](https://hue.tools/) | A free color mixer, blender, info and modifier tool. Mix multiple colors, get links for design inspiration and stock images based on a color, view various color combinations and modify colors in an intuitive. |
 | [huey](https://huey.design/) | Rapid color palettes across the rainbow. Huey is great for instantly generating color palettes for use with CSS variables, SCSS, and JavaScript, and exports markup for Tailwind, Bootstrap, and PostCSS frameworks. |
 | [Reasonable Colors](https://reasonable.work/colors/) | Reasonable Colors is an open-source color system for building accessible, nice-looking color palettes. |
-| [Vanilla Colorful](https://iamkulykov.com/vanilla-colorful/) | A tiny color picker web component for modern web apps. |
 | [uiGradients](https://uigradients.com/) | A handpicked collection of beautiful color gradients for designers and developers. |
+| [Vanilla Colorful](https://iamkulykov.com/vanilla-colorful/) | A tiny color picker web component for modern web apps. |
