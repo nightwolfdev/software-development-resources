@@ -11,6 +11,7 @@
 | [Color Hunt](https://colorhunt.co/) | Discover the newest hand-picked color palettes of Color Hunt. Get color inspiration for your design and art projects. |
 | [colors.lol](https://colors.lol/) | colors.lol is a fun way to discover interesting color combinations. |
 | [colors.tools](https://colors.tools/) | Take the guesswork out of picking the right colors for your next artwork and user interface. |
+| [conic.css](https://www.conic.style/) | conic.css provides nice, simple, conic gradients. |
 | [Couleur](https://couleur.io/) | A simple color tool to help you find good color palettes for your web projects. This tools spits out modern CSS you can use right away in your projects. |
 | [Happy Hues](https://www.happyhues.co/) | Happy Hues is a color palette inspiration site that acts as a real world example as to how the colors could be used in your design projects. |
 | [hue.tools](https://hue.tools/) | A free color mixer, blender, info and modifier tool. Mix multiple colors, get links for design inspiration and stock images based on a color, view various color combinations and modify colors in an intuitive. |
