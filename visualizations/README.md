@@ -9,6 +9,7 @@
 | [D3](https://d3js.org/) | D3 (or D3.js) is a free, open-source JavaScript library for visualizing data. Its low-level approach built on web standards offers unparalleled flexibility in authoring dynamic, data-driven graphics. |
 | [DgrmJS](https://app.dgrm.net/) | DgrmJS is a JavaScript library for creating SVG flow diagrams. |
 | [JSON Crack](https://jsoncrack.com/) | Seamlessly visualize your JSON data instantly into graphs. |
+| [JSXGraph](https://jsxgraph.org) | JSXGraph is a cross-browser JavaScript library for interactive geometry, function plotting, charting, and data visualization in the web browser. |
 | [Leaflet](https://leafletjs.com/) | Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps. Weighing just about 42 KB of JS, it has all the mapping features most developers ever need. |
 | [Mermaid](https://github.com/mermaid-js/mermaid) | Mermaid is a Javascript based diagramming and charting tool that uses Markdown-inspired text definitions and a renderer to create and modify complex diagrams. |
 | [p5.js](https://p5js.org/) | p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! |
