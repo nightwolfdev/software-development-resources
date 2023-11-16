@@ -14,6 +14,7 @@
 | [conic.css](https://www.conic.style/) | conic.css provides nice, simple, conic gradients. |
 | [Couleur](https://couleur.io/) | A simple color tool to help you find good color palettes for your web projects. This tools spits out modern CSS you can use right away in your projects. |
 | [Happy Hues](https://www.happyhues.co/) | Happy Hues is a color palette inspiration site that acts as a real world example as to how the colors could be used in your design projects. |
+| [#HEXWORDS](https://hexwords.netlify.app/) | Why bother with a random green when you can choose to be a #BADA55! |
 | [hue.tools](https://hue.tools/) | A free color mixer, blender, info and modifier tool. Mix multiple colors, get links for design inspiration and stock images based on a color, view various color combinations and modify colors in an intuitive. |
 | [huey](https://huey.design/) | Rapid color palettes across the rainbow. Huey is great for instantly generating color palettes for use with CSS variables, SCSS, and JavaScript, and exports markup for Tailwind, Bootstrap, and PostCSS frameworks. |
 | [Reasonable Colors](https://reasonable.work/colors/) | Reasonable Colors is an open-source color system for building accessible, nice-looking color palettes. |
