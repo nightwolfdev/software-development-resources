@@ -15,6 +15,7 @@ A curated list of software development resources by [NightWolf Software Developm
 - [Forms](./forms/)
 - [Games](./games/)
 - [Icons](./icons/)
+- [Images](./images/)
 - [Static Site Generators](./ssg/)
 - [Tables](./tables/)
 - [Text Editors](./text-editors/)
