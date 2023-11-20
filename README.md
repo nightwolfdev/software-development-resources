@@ -3,6 +3,7 @@
 A curated list of software development resources by [NightWolf Software Development](https://nightwolf.dev).
 
 - [Animations](./animations/)
+- [Artificial Intelligence](./ai/)
 - [Authentication](./authentication/)
 - [Color](./color/)
 - [Content Management Systems](./cms/)
@@ -13,6 +14,7 @@ A curated list of software development resources by [NightWolf Software Developm
 - [Drag & Drop](./drag-drop/)
 - [Ecommerce](./ecommerce/)
 - [Forms](./forms/)
+- [Front End Frameworks & Libraries](./front-end/)
 - [Games](./games/)
 - [Icons](./icons/)
 - [Images](./images/)
