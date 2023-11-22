@@ -20,6 +20,7 @@ A curated list of software development resources by [NightWolf Software Developm
 - [Images](./images/)
 - [Static Site Generators](./ssg/)
 - [Tables](./tables/)
+- [Testing](./testing/)
 - [Text Editors](./text-editors/)
 - [Tours](./tours/)
 - [Training](./training/)
