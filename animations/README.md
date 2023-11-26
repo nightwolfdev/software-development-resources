@@ -9,6 +9,7 @@ It works with CSS properties, SVG, DOM attributes and JavaScript Objects. |
 | [Animated Backgrounds](https://animatedbackgrounds.me/) | A collection of animated backgrounds for websites and blogs. With Animated Backgrounds, set simple, elegant background animations on your websites and blogs. |
 | [AnimatiSS](https://xsgames.co/animatiss/) | AnimatiSS is a tool to preview custom CSS animations and grab their code with a simple click, to paste it into your own web projects. |
 | [Animatize](https://animatize.com/) | Create animations by dragging your mouse. |
+| [Animotion](https://animotion.dev/) | A visual CSS animation editor for creating stunning web animations. |
 | [AnimXYZ](https://animxyz.com/) | AnimXYZ helps you create, customize, and compose animations for your website. Powered by CSS variables to allow a nearly limitless number of unique animations without writing a single keyframe. Save time and have complete control over how your elements move. |
 | [Aseprite](https://www.aseprite.org/) | Animated sprite editor & pixel art tool. |
 | [AutoAnimate](https://auto-animate.formkit.com/) | AutoAnimate is a zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, Svelte, or any other JavaScript application. |
