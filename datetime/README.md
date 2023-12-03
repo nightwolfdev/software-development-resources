@@ -6,6 +6,7 @@
 | [Day.js](https://day.js.org/) | Day.js is a Javscript Date library. It’s a fast 2kB alternative to Moment.js with the same modern API. |
 | [date-fns](https://date-fns.org/) | date-fns provides the most comprehensive, yet simple and consistent toolset for manipulating JavaScript dates in a browser & Node.js. |
 | [flatpickr](https://flatpickr.js.org/) | flatpickr is a lightweight and powerful datetime picker. |
+| [FullCalendar](https://fullcalendar.io/) | FullCalendar is the most popular full-sized Javascript calendar with over 100 customizable settings. |
 | [Luxon](https://moment.github.io/luxon) | A powerful, modern, and friendly wrapper for JavaScript dates and times. |
 | [Pikaday](https://github.com/Pikaday/Pikaday) | A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS. |
 | [spacetime](https://spacetime.how/) | spacetime is a very small and handy date calculator. |
