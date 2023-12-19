@@ -38,6 +38,7 @@
 | [Squoosh](https://squoosh.app/) | Squoosh allows you to compress and compare images with different codecs, right in your browser. |
 | [ssshape](https://fffuel.co/ssshape/) | Simple organic/blob shape generator that allows you to control the final shape. Copy/export as an SVG and use the blob-like shapes in your designs right away. |
 | [SVGcode](https://svgco.de/) | Convert color or monochrome bitmap images (PNG, JPG, JPEG, WEBP, AVIF, GIF,…) to color or monochrome vector images (SVG). |
+| [svgl](https://svgl.app/) | A beautiful library with SVG logos. |
 | [Tabbied](https://tabbied.com/) | Tabbied lets you easily create timeless and beautifully generated patterns or artwork to use for wall art, websites, print materials and more. |
 | [unDraw](https://undraw.co/) | unDraw is the design project with open-source illustrations for any idea you can imagine and create. Create beautiful websites, products and applications with your color, for free. |
 | [Wicked Backgrounds](https://wickedbackgrounds.com/) | Create beautiful SVG backgrounds for your UI designs. | 

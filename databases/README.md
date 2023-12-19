@@ -11,6 +11,8 @@
 | [Knex.js](https://knexjs.org/) | Knex.js is a "batteries included" SQL query builder for PostgreSQL, CockroachDB, MSSQL, MySQL, MariaDB, SQLite3, Better-SQLite3, Oracle, and Amazon Redshift designed to be flexible, portable, and fun to use. |
 | [RxDB](https://rxdb.info/) | RxDB (short for Reactive Database) is a NoSQL-database for JavaScript Applications like Websites, hybrid Apps, Electron-Apps, Progressive Web Apps and Node.js. |
 | [Sequelize](https://sequelize.org/) | Sequelize is a modern TypeScript and Node.js ORM for Oracle, Postgres, MySQL, MariaDB, SQLite and SQL Server, and more. |
+| [SignalDB](https://signaldb.js.org/) | A reactive local JavaScript database with a MongoDB-like interface, first-class TypeScript support and signal-based reactivity. |
 | [SimpleDB](https://simpledb.vercel.app/) | Create database as simple as generate a link. |
 | [Slashbase](https://slashbase.com/) | Connect to your database, browse data, run a bunch of SQL commands or share SQL queries with your team, right from your browser! |
+| [SpacetimeDB](https://spacetimedb.com/) | The easiest way to build a multiplayer app, game, and more! |
 | [SurrealDB](https://surrealdb.com/) | SurrealDB is the ultimate database for tomorrow's serverless, jamstack, single-page, and traditional applications. |
