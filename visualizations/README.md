@@ -17,5 +17,6 @@
 | [Pintora](https://pintorajs.vercel.app/) | An extensible text-to-diagrams library that works in both browser and Node.js. Expressing your thoughts in a diagram is better than a thousand words. |
 | [Raphael](https://dmitrybaranovskiy.github.io/raphael/) | Raphael is a small JavaScript library that should simplify your work with vector graphics on the web. If you want to create your own specific chart or image crop and rotate widget, for example, you can achieve it simply and easily with this library. |
 | [Three.js](https://threejs.org/) | Javascript 3D library |
+| [TSDiagram](https://tsdiagram.com/) | Create diagrams and plan your code with TypeScript. |
 | [Unovis](https://unovis.dev/) | A modular data visualization framework for React, Angular, Svelte, and vanilla TypeScript or JavaScript. |
 | [Web Sequence Diagrams](https://www.websequencediagrams.com/) | Web Sequence Diagrams allows you to draw sequence diagrams in seconds for free. |
