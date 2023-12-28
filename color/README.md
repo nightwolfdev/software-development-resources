@@ -3,6 +3,7 @@
 | Name | Description |
 | --- | --- |
 | [0to255](https://www.0to255.com/) | 0to255 is a color tool that makes it easy to lighten and darken colors. It’s perfect for hover states, borders, color gradients, and more. |
+| [Accessible Color Palette Generator](https://venngage.com/tools/accessible-color-palette-generator) | Discover beautiful color combinations your whole audience can appreciate and follow Web Content Accessibility Guidelines (WCAG) with ease. |
 | [chroma.js](https://vis4.net/chromajs/) | chroma.js is a small-ish, zero-dependency JavaScript library for all kinds of color conversions and color scales. |
 | [Color.js](https://colorjs.io/) | Let’s get serious about color. |
 | [ColorBox](https://colorbox.io/) | Create amazing color sets superfast. |
