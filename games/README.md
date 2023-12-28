@@ -10,4 +10,5 @@
 | [melonJS](https://melonjs.org/) | melonJS is an open source HTML5 game engine that empowers developers and designers to focus on content. |
 | [Pancake](https://github.com/Rabios/Pancake) | Lightweight, Fast, Easy-to-use HTML5 2D game framework! |
 | [Phaser](http://phaser.io/) | Phaser is a fast, free and fun open source framework for Canvas and WebGL powered browser games. |
+| [Pixi](https://pixijs.com/) | PixiJS - The HTML5 Creation Engine. Create beautiful digital content with the fastest, most flexible 2D WebGL renderer. |
 | [Yuka](https://mugen87.github.io/yuka/) | A JavaScript library for developing Game AI. |
