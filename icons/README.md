@@ -14,6 +14,7 @@
 | [Flaticon](https://www.flaticon.com/) | Flaticon provides 4,010,500+ free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT. Thousands of free icons in the largest database of free vector icons! |
 | [Free Icons](https://free-icons.github.io/free-icons/) | A collection of over 22,000 freely available icons for various design projects. |
 | [Futicons](https://futicons.com/) | Futicons are Figma designer icons for Virtual Reality, Augmented Reality, Interplanetary Travel, Artificial Intelligence, Crypto, Blockchain, Cyborg, Future Transportation and Sustainability. |
+| [Game Icons](https://game-icons.net/) | Free SVG and PNG icons for your games or apps. |
 | [Health Icons](https://healthicons.org/) | Free, open source health icons. Use in your next commercial or personal project. Editing is ok. Republishing is ok. No need to give credit. |
 | [Heroicons](https://heroicons.com/) | Heroicons is a library of beautiful hand-crafted SVG icons, by the makers of Tailwind CSS. |
 | [Humble Icons](https://humbleicons.com/) | A pack of beautiful, neutral, carefully crafted icons that you can use in your personal and commercial projects for free. |
