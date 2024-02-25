@@ -41,5 +41,6 @@
 | [SVGcode](https://svgco.de/) | Convert color or monochrome bitmap images (PNG, JPG, JPEG, WEBP, AVIF, GIF,…) to color or monochrome vector images (SVG). |
 | [svgl](https://svgl.app/) | A beautiful library with SVG logos. |
 | [Tabbied](https://tabbied.com/) | Tabbied lets you easily create timeless and beautifully generated patterns or artwork to use for wall art, websites, print materials and more. |
+| [Text Art](https://textart.sh/) | Text art on every topic, ever. |
 | [unDraw](https://undraw.co/) | unDraw is the design project with open-source illustrations for any idea you can imagine and create. Create beautiful websites, products and applications with your color, for free. |
 | [Wicked Backgrounds](https://wickedbackgrounds.com/) | Create beautiful SVG backgrounds for your UI designs. | 

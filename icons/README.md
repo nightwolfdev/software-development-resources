@@ -8,6 +8,7 @@
 | [Boxicons](https://boxicons.com/) | Boxicons is a free collection of carefully crafted open source icons. Each icon is designed on a 24px grid with the material guidelines. |
 | [Circum Icons](https://circumicons.com/) | Circum is a open source icon library following Google Material Design principles. Every icon was made using a 24×24 grid. |
 | [Doodle Icons](https://khushmeen.com/icons.html) | 400+ handcrafted icons free for your next project. |
+| [Emoji Cloud](https://alohe.github.io/emojicloud/) | With emoji cloud, you can add vector emojis to your projects with zero configuration and a single line of code. | 
 | [Feather Icons](https://feathericons.com/) | Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24×24 grid with an emphasis on simplicity, consistency and readability. |
 | [Flagpack](https://www.flagpack.xyz/) | Flagpack contains 260+ easily implementable flag icons to use in your design or code project. |
 | [Flaticon](https://www.flaticon.com/) | Flaticon provides 4,010,500+ free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT. Thousands of free icons in the largest database of free vector icons! |

@@ -27,4 +27,5 @@ A curated list of software development resources by [NightWolf Software Developm
 - [Tours](./tours/)
 - [Training](./training/)
 - [Typography](./typography/)
+- [Video](./video/)
 - [Visualizations](./visualizations/)
