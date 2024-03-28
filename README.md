@@ -6,6 +6,7 @@ A curated list of software development resources by [NightWolf Software Developm
 - [Artificial Intelligence](./ai/)
 - [Audio](./audio/)
 - [Authentication](./authentication/)
+- [Back End Frameworks & Libraries](./back-end/)
 - [Color](./color/)
 - [Content Management Systems](./cms/)
 - [CSS](./css/)
