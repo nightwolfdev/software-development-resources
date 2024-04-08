@@ -3,6 +3,7 @@
 | Name | Description |
 | --- | --- |
 | [calendar.js](https://williamtroup.github.io/Calendar.js/) | A javascript drag & drop event calendar, that is fully responsive and compatible with all modern browsers. |
+| [Cally](https://wicky.nillia.ms/cally/) | Small, feature-rich calendar components. |
 | [Day.js](https://day.js.org/) | Day.js is a Javscript Date library. It’s a fast 2kB alternative to Moment.js with the same modern API. |
 | [date-fns](https://date-fns.org/) | date-fns provides the most comprehensive, yet simple and consistent toolset for manipulating JavaScript dates in a browser & Node.js. |
 | [flatpickr](https://flatpickr.js.org/) | flatpickr is a lightweight and powerful datetime picker. |

@@ -13,6 +13,7 @@
 | [cowsay](https://cowsay-svelte.vercel.app/) | A cowsay web interface. Copy the ASCII art, or save it as an image. |
 | [Doodle Ipsum](https://doodleipsum.com/) | The lorem ipsum of illustrations. Just customize your doodles, grab the code, and use them on your web prototypes, landing pages, or no-code tools. |
 | [Emojimix](https://tikolu.net/emojimix) | Combine two emojis into one. Thousands of combinations are available. |
+| [faces.js](https://zengm.com/facesjs/) | A JavaScript library for generating vector-based cartoon faces. |
 | [For the Badge](https://forthebadge.com/) | Badges, for badges’ sake. |
 | [Glitch Image Generator](https://glitchyimage.com/) | Generate and save unique glitchy images. |
 | [kod.so](https://kod.so/) | Convert code snippets into screenshots with API support. |
