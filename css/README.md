@@ -10,6 +10,7 @@
 | [CSSUI](https://www.cssui.dev/) | CSSUI is a collection of interactive user interface components realized in pure CSS. |
 | [Layoutit Grid](https://grid.layoutit.com/) | Layoutit Grid allows you to quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with the interactive CSS Grid Generator. |
 | [Lightning CSS](https://lightningcss.dev/) | An extremely fast CSS parser, transformer, bundler, and minifier. |
+| [matcha.css](https://matcha.mizu.sh/) | Drop-in semantic styling library in pure CSS. |
 | [missing.css](https://missing.style/) | missing.css is the CSS library we wished already existed. The goal is to reduce needed intervention in HTML. |
 | [MVP.css](https://andybrewer.github.io/mvp/) | MVP.css – No classes, no framework. Just semantic HTML and you’re done. |
 | [OrbitCSS](https://orbitcss.com/) | OrbitCSS is a modern CSS framework based on Flexbox. It is free to use, fully responsive and customizable. Build beautiful and responsive websites with OrbitCSS. |
