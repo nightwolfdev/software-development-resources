@@ -4,6 +4,7 @@
 | --- | --- |
 | [C3.js](https://c3js.org/) | D3 based reusable chart library. |
 | [Chart.js](https://www.chartjs.org/) | Simple yet flexible JavaScript charting library for the modern web. |
+| [Chartbrew](https://chartbrew.com/) | Chartbrew allows you to connect all your databases and APIs to create beautiful live charts and visualize your data in custom dashboards. |
 | [Charts.css](https://chartscss.org/) | Charts.css is a modern CSS framework. It uses CSS utility classes to style HTML elements as charts. |
 | [D2](https://d2lang.com/) | D2 is a diagram scripting language that turns text to diagrams. It stands for Declarative Diagramming. Declarative, as in, you describe what you want diagrammed, it generates the image. |
 | [D3](https://d3js.org/) | D3 (or D3.js) is a free, open-source JavaScript library for visualizing data. Its low-level approach built on web standards offers unparalleled flexibility in authoring dynamic, data-driven graphics. |
