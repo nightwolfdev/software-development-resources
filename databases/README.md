@@ -7,6 +7,7 @@
 | [DB Browser for SQLite](https://sqlitebrowser.org/) | DB Browser for SQLite is a high quality, visual, open source tool to create, design, and edit database files compatible with SQLite. |
 | [FerretDB](https://www.ferretdb.io/) | A truly Open Source MongoDB alternative. MongoDB abandoned its Open-Source roots, changing the license to SSPL making it unusable for many Open Source and Commercial Projects. See and try FerretDB in action! |
 | [HeidiSQL](https://www.heidisql.com/) | HeidiSQL is a free and powerful database client for MariaDB, MySQL, Microsoft SQL Server, PostgreSQL and SQLite. |
+| [Instant](https://www.instantdb.com/) | Instant is a modern Firebase. We make you productive by giving your frontend a real-time database. |
 | [JavascriptDB](https://javascriptdb.com/) | The open source Firebase alternative that uses SQLite. Create full stack Javascript applications faster than ever. |
 | [Knex.js](https://knexjs.org/) | Knex.js is a "batteries included" SQL query builder for PostgreSQL, CockroachDB, MSSQL, MySQL, MariaDB, SQLite3, Better-SQLite3, Oracle, and Amazon Redshift designed to be flexible, portable, and fun to use. |
 | [RxDB](https://rxdb.info/) | RxDB (short for Reactive Database) is a NoSQL-database for JavaScript Applications like Websites, hybrid Apps, Electron-Apps, Progressive Web Apps and Node.js. |
@@ -16,3 +17,4 @@
 | [Slashbase](https://slashbase.com/) | Connect to your database, browse data, run a bunch of SQL commands or share SQL queries with your team, right from your browser! |
 | [SpacetimeDB](https://spacetimedb.com/) | The easiest way to build a multiplayer app, game, and more! |
 | [SurrealDB](https://surrealdb.com/) | SurrealDB is the ultimate database for tomorrow's serverless, jamstack, single-page, and traditional applications. |
+| [VisualDB](https://visualdb.com/) | A web front end for your database. Build data entry forms, sheets, and reports. |
