@@ -10,6 +10,7 @@
 | [FullCalendar](https://fullcalendar.io/) | FullCalendar is the most popular full-sized Javascript calendar with over 100 customizable settings. |
 | [Luxon](https://moment.github.io/luxon) | A powerful, modern, and friendly wrapper for JavaScript dates and times. |
 | [Pikaday](https://github.com/Pikaday/Pikaday) | A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS. |
+| [schedule-x](https://schedule-x.dev/) | Ship an event calendar with ease, regardless of tech-stack. Modern alternative to FullCalendar. |
 | [spacetime](https://spacetime.how/) | spacetime is a very small and handy date calculator. |
 | [Tempo](https://tempo.formkit.com/) | An open-source library for handling complex date operations across timezones. The easiest way to work with dates in JavaScript. |
 | [time.lol](https://time.lol/) | Convert time and date to any format/time zone: ISO 8601, Timestamp, RFC, Julian Day, and more. |
