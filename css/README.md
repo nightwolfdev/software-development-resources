@@ -19,6 +19,7 @@
 | [Sailboat UI](https://sailboatui.com/) | Sailboat UI is a modern UI component library for Tailwind CSS. |
 | [Shoelace](https://shoelace.style/) | Shoelace provides a collection of professionally designed, every day UI components built on a framework-agnostic technology. |
 | [Simple.css](https://simplecss.org/) | Simple.css is a classless CSS framework that makes semantic HTML look good, really quickly. |
+| [skellyCSS](https://github.com/ritterim/skellyCSS) | A light-weight CSS framework to quickly implement skeletons into your projects. |
 | [Tailwind CSS](https://tailwindcss.com/) | Tailwind CSS allows you to rapidly build modern websites without ever leaving your HTML. |
 | [Token CSS](https://tokencss.com/) | Token CSS is a new tool that seamlessly integrates Design Tokens into your development workflow. |
 | [transition.css](https://www.transition.style/) | Drop-in CSS transitions. |
