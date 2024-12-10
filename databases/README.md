@@ -15,6 +15,7 @@
 | [SignalDB](https://signaldb.js.org/) | A reactive local JavaScript database with a MongoDB-like interface, first-class TypeScript support and signal-based reactivity. |
 | [SimpleDB](https://simpledb.vercel.app/) | Create database as simple as generate a link. |
 | [Slashbase](https://slashbase.com/) | Connect to your database, browse data, run a bunch of SQL commands or share SQL queries with your team, right from your browser! |
+| [SlateDB](https://slatedb.io/) | Unlike traditional LSM-tree storage engines, SlateDB writes data to object storage to provide bottomless storage capacity, high durability, and easy replication. |
 | [SpacetimeDB](https://spacetimedb.com/) | The easiest way to build a multiplayer app, game, and more! |
 | [SurrealDB](https://surrealdb.com/) | SurrealDB is the ultimate database for tomorrow's serverless, jamstack, single-page, and traditional applications. |
 | [VisualDB](https://visualdb.com/) | A web front end for your database. Build data entry forms, sheets, and reports. |

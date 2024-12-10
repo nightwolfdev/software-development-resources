@@ -16,6 +16,7 @@ It works with CSS properties, SVG, DOM attributes and JavaScript Objects. |
 | [barba.js](https://barba.js.org/) | Create badass, fluid and smooth transition between your website’s pages. |
 | [Filmstrip](https://filmstrip.berryscript.com/) | Filmstrip is an online editor for creating CSS animation code. |
 | [GSAP](https://gsap.com/) | GSAP is an industry standard JavaScript animation library from GreenSock that lets you craft high-performance animations that work in every major browser. |
+| [Kinesis.js](https://kinesisjs.com/) | A library that offers a suite of components to create engaging animations and transformations based on user interactions like mouse movements, scroll events, and even audio input. |
 | [Motion Canvas](https://motioncanvas.io/) | A TypeScript library for creating animated videos using the Canvas API. |
 | [party.js](https://party.js.org/) | A JavaScript library to brighten up your user’s site experience with visual effects! |
 | [PushIn.js](https://pushinjs.com/) | PushIn.js is a lightweight parallax effect, built with JavaScript, that simulates an interactive dolly-in or push-in animation on a webpage. |
