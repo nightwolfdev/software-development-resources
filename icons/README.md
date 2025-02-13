@@ -8,6 +8,7 @@
 | [Boxicons](https://boxicons.com/) | Boxicons is a free collection of carefully crafted open source icons. Each icon is designed on a 24px grid with the material guidelines. |
 | [Chromicons](https://lifeomic.github.io/chromicons.com/) | Ready to use in web, iOS, Android, and desktop apps. Support for SVG and web font. Completely open source, MIT licensed. |
 | [Circum Icons](https://circumicons.com/) | Circum is a open source icon library following Google Material Design principles. Every icon was made using a 24×24 grid. |
+| [Developer Icons](https://xandemon.github.io/developer-icons/) | Ready-to-use beautiful tech stack icon components for developers. |
 | [Doodle Icons](https://khushmeen.com/icons.html) | 400+ handcrafted icons free for your next project. |
 | [Emoji Cloud](https://alohe.github.io/emojicloud/) | With emoji cloud, you can add vector emojis to your projects with zero configuration and a single line of code. | 
 | [Emoji Kitchen](https://emojikitchen.com/) | Combine and create thousands of new emojis. |
@@ -22,6 +23,7 @@
 | [Humble Icons](https://humbleicons.com/) | A pack of beautiful, neutral, carefully crafted icons that you can use in your personal and commercial projects for free. |
 | [Iconbuddy](https://iconbuddy.app/) | Search, download, customize, edit over 100k+ open source icons. Iconbuddy is a powerful icon search engine and manager. |
 | [Iconduck](https://iconduck.com/) | Iconduck lists over 100,000 free open source icons, illustrations and graphics. They can be used for personal and commercial projects. |
+| [iconmonstr](https://iconmonstr.com/) | Free simple icons for your next project. |
 | [Icones](https://icones.js.org/) | Icon explorer with instant searching. |
 | [Iconic](https://iconic.app/) | Free, “do wtf you want with” pixel-perfect icons. New icons added every week. |
 | [Iconoir](https://iconoir.com/) | Iconoir is one of the biggest open source icon libraries. No premium icons, no email sign-up, no newsletters. |
