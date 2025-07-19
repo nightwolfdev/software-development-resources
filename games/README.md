@@ -10,6 +10,7 @@
 | [LittleJS](https://github.com/KilledByAPixel/LittleJS) | LittleJS is a super lightweight 2D JavaScript game engine with fast WebGL rendering. |
 | [Matter.js](https://brm.io/matter-js/) | Matter.js is a 2D Javascript physics engine for the web. |
 | [melonJS](https://melonjs.org/) | melonJS is an open source HTML5 game engine that empowers developers and designers to focus on content. |
+| [Odyc.js](https://odyc.dev/) | A small javascript library that lets you code video games even without programming experience. |
 | [Pancake](https://github.com/Rabios/Pancake) | Lightweight, Fast, Easy-to-use HTML5 2D game framework! |
 | [Phaser](http://phaser.io/) | Phaser is a fast, free and fun open source framework for Canvas and WebGL powered browser games. |
 | [Pixi](https://pixijs.com/) | PixiJS - The HTML5 Creation Engine. Create beautiful digital content with the fastest, most flexible 2D WebGL renderer. |
